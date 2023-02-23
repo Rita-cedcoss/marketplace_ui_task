@@ -255,6 +255,7 @@
         display: block;
     }
     .banner__right {
+        height: 500px;
         max-width: 650px;
     }
     .banner__btnDeals {
@@ -276,5 +277,9 @@
   @media only screen and (max-width: 400px) {
     .autofill {
         padding: 10px 20px;
+    }
+    .banner__right {
+        height: 500px;
+        max-width: 650px;
     }
   }
